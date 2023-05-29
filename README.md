@@ -7,11 +7,11 @@ A simple web app with the Nest framework and Typescript
 $ npm install
 
 **Running the app**
-# development
+**development**
 $ npm run start
 
-# watch mode
+**watch mode**
 $ npm run start:dev
 
-# production mode
+**production mode**
 $ npm run start:prod
